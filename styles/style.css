@@ -1,0 +1,223 @@
+body {
+	margin-top: 54px;
+	margin-left: 52px;
+}
+
+header {
+	margin-bottom: 44px;
+	font-family: "MG Glaho Drunk", sans-serif;
+}
+
+
+a {
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 700;
+	color: #8D81FF;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin-left: 60px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+img {
+	vertical-align: middle;
+}
+ 
+
+ul {
+	padding: 0;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.banner {
+	width: 1052px;
+	height: 462px;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 400;
+	color: #8D81FF;
+	margin-bottom: 8px;
+	font-family: "ALK Life", sans-serif;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-bottom: 16px;
+	font-family: "BPG ExtraSquare", sans-serif;
+}
+
+ul {
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+}
+
+h6 {
+	font-size: 36px;
+	font-weight: 700;
+	color: #4E6FAE;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: 400;
+	color: #3F4145;
+}
+
+.day {
+	height: 50px;
+	width: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	font-weight: 400;
+	padding-top: 8px;
+	padding-left: 11px;
+	margin-bottom: 18px;
+	font-family: "Elms Sans", sans-serif;
+}
+
+.desc {
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+	display: inline-block;
+	width: 780px;
+	vertical-align: top;
+	font-family: "BPG Square", sans-serif;
+}
+
+.pic {
+	vertical-align: top;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.text {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+	width: 1021px;
+	height: 148px;
+	font-family: "BPG Square", sans-serif;
+
+}
+
+.picture {
+	margin-bottom: 20px;
+}
+
+footer {
+	margin-top: 143px;
+	margin-bottom: 45px;
+}
+
+.logo {
+	margin-right: 41px;
+}
+
+.contact {
+	display: inline-block;
+	font-size: 20px;
+	font-weight: 400;
+	color: #7E8898;
+	vertical-align: top;
+	margin-right: 40px;
+	font-family: "BPG Square", sans-serif;
+}
+
+h5{
+	font-size: 36px;
+	font-weight: 700;
+	color: #4E6FAE;
+	vertical-align: top;
+	margin-right: 60px;
+	font-family: "BPG ExtraSquare", sans-serif;
+}
+
+.map {
+	vertical-align: top;
+	width: 900px;
+	height: 500px;
+}
+
+.rectangle {
+	width: 1465px;
+	height: 735px;
+	margin-top: 20px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	padding-top: 30px;
+	padding-left: 40px;
+
+}
+
+span {
+	color: #3F4145;
+}
+
+.card1 {
+	width: 500px;
+	height: 192px;
+	margin-top: 20px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	padding-top: 30px;
+	padding-left: 40px;
+	margin-right: 47px;
+
+}
+
+.card2 {
+	width: 500px;
+	height: 192px;
+	margin-top: 20px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	padding-top: 30px;
+	padding-left: 40px;
+}
+
+.image {
+	width: 77px;
+	height: 77px;
+	display: inline;
+	vertical-align: middle;
+}
+
+.news {
+	width: 335px;
+	height: 95px;
+    font-size: 16px;
+	font-weight: 400;
+	color: #7E8898;
+	vertical-align: middle;
+	display: inline-block;
+	margin-top: 25px;
+	font-family: "Elms Sans", sans-serif;
+}
+
+.card-title{
+	font-size: 20px;
+	font-weight: 400;
+	color: #3F4145;
+	vertical-align: top;
+	margin-right: 40px;
+	font-family: "Roboto Slab", serif;
+}
